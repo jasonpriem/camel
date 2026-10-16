@@ -133,6 +133,7 @@ CAMEL provides a variety of built-in toolkits that you can use right away. Here'
 | MinerUToolkit          | A toolkit for extracting and processing document content using the MinerU API, with support for OCR, formula recognition, and table detection.                                |
 | NetworkXToolkit        | A toolkit for graph operations and analysis using the NetworkX library.                                                                                                       |
 | NotionToolkit          | A toolkit for retrieving information from Notion pages and workspaces using the Notion API.                                                                                   |
+| OpenAlexToolkit        | A toolkit for searching OpenAlex, a free index of scholarly works across all fields, and looking up works by DOI, OpenAlex ID, PMID or PMCID.                                 |
 | OpenAPIToolkit         | A toolkit for working with OpenAPI specifications and REST APIs.                                                                                                              |
 | OpenBBToolkit          | A toolkit for accessing and analyzing financial market data through the OpenBB Platform, including stocks, ETFs, cryptocurrencies, and economic indicators.                   |
 | PPTXToolkit            | A toolkit for creating and manipulating PowerPoint (PPTX) files, including adding slides, text, and images.                                                                   |

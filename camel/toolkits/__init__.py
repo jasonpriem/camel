@@ -72,6 +72,7 @@ from .file_toolkit import FileToolkit
 from .pptx_toolkit import PPTXToolkit
 from .terminal_toolkit import TerminalToolkit
 from .pubmed_toolkit import PubMedToolkit
+from .openalex_toolkit import OpenAlexToolkit
 from .data_commons_toolkit import DataCommonsToolkit
 from .thinking_toolkit import ThinkingToolkit
 from .pyautogui_toolkit import PyAutoGUIToolkit
@@ -168,6 +169,7 @@ __all__ = [
     'PPTXToolkit',
     'TerminalToolkit',
     'PubMedToolkit',
+    'OpenAlexToolkit',
     'DataCommonsToolkit',
     'ThinkingToolkit',
     'PyAutoGUIToolkit',
